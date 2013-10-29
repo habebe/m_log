@@ -1,0 +1,1 @@
+{"memMax":2.8478406656E10,"os":"linux","time":224973.658217,"txsize":10000,"data":{"rate":44449.648368852264,"op.B":10000000,"size":10000000},"memInit":2.114257984E9,"memUsed":1.794286488E9,"numberOfThreads":1,"memCommitted":5.180030976E9}
