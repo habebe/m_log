@@ -1,0 +1,3 @@
+{"time":821.2539429999999,"clock":265448351464696,"data":{"id":11,"rate":12176.501659730846,"Transaction":"pipeline","B":10000,"counter":10000}}
+{"time":373.929958,"clock":265449187908282,"data":{"id":11,"rate":26742.976287553833,"Transaction":"pipeline","B":10000,"counter":20000}}
+{"time":3927.73182,"clock":265449571710762,"data":{"id":11,"rate":2545.99867258758,"Transaction":"pipeline","B":10000,"counter":30000}}
