@@ -1,1 +1,1 @@
-{"memMax":2.8478406656E10,"os":"linux","time":99159.0,"txsize":10000,"data":{"rate":10084.813279682126,"op.V":1000000,"size":1000000},"memInit":2.114257984E9,"memUsed":6.98882472E8,"numberOfThreads":1,"memCommitted":2.026242048E9}
+{"memMax":2.8478406656E10,"os":"linux","time":91952.0,"txsize":10000,"data":{"rate":10875.239255263616,"op.V":1000000,"size":1000000},"memInit":2.114257984E9,"memUsed":6.99348888E8,"numberOfThreads":1,"memCommitted":2.026242048E9}
